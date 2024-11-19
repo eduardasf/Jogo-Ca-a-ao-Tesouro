@@ -8,6 +8,8 @@ Este repositório contém toda a documentação do jogo Tommy e a Floresta dos D
 - Eduarda Fernandes - 29204356 - [GitHub](https://github.com/eduardasf)
 - Davi Santos - 31075550 - [GitHub](https://github.com/Davi140903)
 
+🔗[Checklist para o Projeto de Algoritmo](https://docs.google.com/document/d/1Srs0VaEi86X3VZb1j1cGalZr3vO_3jp-KXp8-Y3Nx9Y/edit?usp=sharing)
+
 ## Vamos Começar!
 ### O que é um jogo de Caça ao Tesouro?
 O Caça ao tesouro em si é um jogo de enigmas em que os participantes devem resolver para encontrar a recompensa final. A cada mistério resolvido os participantes terão uma nova pista de onde está escondido o próximo enigma, para assim conseguir chegar ao destino final, o prêmio.
@@ -15,7 +17,7 @@ O Caça ao tesouro em si é um jogo de enigmas em que os participantes devem res
 ### 🕹️ Sobre o Jogo
 Tommy e a Floresta dos Desafios é um mini-jogo de caça ao tesouro que conta a história de Tommy, um gato que sai em busca de seu brinquedo favorito chamado Jerryme.
 
-Tudo começa quando Tommy percebe que seu ursinho desapareceu de seu quarto. Jerryme foi sequestrado por um ogro travesso, que o escondeu em uma floresta densa, cheia de árvores e mistérios. O ogro, que na verdade só queria alguém para brincar, desafia Tommy a resgatar o brinquedo. Para isso, Tommy terá que entrar na floresta, encontrar os três pedaços de um mapa que o ogro deixou para trás para assim encontrar o seu brinqueto predileto.
+Tudo começa quando Tommy percebe que seu ursinho desapareceu de seu quarto. Jerryme foi sequestrado por um ogro travesso, que o escondeu em uma floresta, cheia mistérios. O ogro, que na verdade só queria alguém para brincar, desafia Tommy a resgatar o brinquedo. Para isso, Tommy terá que entrar na floresta, encontrar os três pedaços de um mapa que o ogro deixou para trás para assim encontrar o seu brinqueto preferido.
 
 A missão do jogador é ajudar Tommy a encontrar seu ursinho, utilizando os enigmas espalhados pela floresta para completar o mapa. 
 
@@ -28,3 +30,20 @@ O jogo foi inspirado em projetos simples de caça ao tesouro disponíveis na pla
 ### 🧩 Problema a Ser Resolvido:
 O problema que queremos resolver é: "Como criar um algoritmo de caça ao tesouro no Scratch que inclua dicas baseadas na proximidade entre o jogador e o tesouro"
 
+Para solucionar este problema, utilizamos como base o modelo matemático da distância euclidiana. Mas o que é esse modelo?
+
+De acordo com a Wikipedia, a distância euclidiana é a distância entre dois pontos em um espaço, que pode ser determinada pela aplicação repetida do teorema de Pitágoras. Ao aplicar essa fórmula de distância, o espaço euclidiano torna-se um espaço métrico.
+
+Existem várias maneiras de calcular a distância entre pontos, dependendo da dimensão do espaço. Algumas delas são:
+- Distância unidimensional
+- Distância bidimensional
+- Distância tridimensional
+- Distância n-dimensional
+  
+Neste caso, utilizamos a distância bidimensional, que é calculada da seguinte forma:
+![image](https://github.com/user-attachments/assets/80203912-d457-45c9-9290-3de38e5b4955)
+
+
+📚Referências para a pesquisa:
+- [JOGO DIDÁTICO: CAÇA TESOURO GEOGRÁFICO](https://www.falaprofessor2023.agb.org.br/resources/anais/9/fp2023/1693513698_ARQUIVO_41e17d5f72c272576d276d118152fb95.pdf) - Altores: Jeane Araújo - Vitória Santos de Jesus - Maísa Barbosa Caldas - Bruno Rodrigues da Silveira
+- [Distância euclidiana](https://pt.wikipedia.org/wiki/Dist%C3%A2ncia_euclidiana) - Wikipedia
