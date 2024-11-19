@@ -9,6 +9,7 @@ Este repositório contém toda a documentação do jogo Tommy e a Floresta dos D
 - Davi Santos - 31075550 - [GitHub](https://github.com/Davi140903)
 
 🔗[Checklist para o Projeto de Algoritmo](https://docs.google.com/document/d/1Srs0VaEi86X3VZb1j1cGalZr3vO_3jp-KXp8-Y3Nx9Y/edit?usp=sharing)
+
 🔗[Link do Jogo](https://docs.google.com/document/d/1Srs0VaEi86X3VZb1j1cGalZr3vO_3jp-KXp8-Y3Nx9Y/edit?usp=sharing)
 
 ## Vamos Começar!
@@ -18,9 +19,9 @@ O Caça ao tesouro em si é um jogo de enigmas em que os participantes devem res
 ### 🕹️ Sobre o Jogo
 Tommy e a Floresta dos Desafios é um mini-jogo de caça ao tesouro que conta a história de Tommy, um gato que sai em busca de seu brinquedo favorito chamado Jerryme.
 
-Tudo começa quando Tommy percebe que seu ursinho desapareceu de seu quarto. Jerryme foi sequestrado por um ogro travesso, que o escondeu em uma floresta, cheia mistérios. O ogro, que na verdade só queria alguém para brincar, desafia Tommy a resgatar o brinquedo. Para isso, Tommy terá que entrar na floresta, encontrar os três pedaços de um mapa que o ogro deixou para trás para assim encontrar o seu brinqueto preferido.
+Tudo começa quando Tommy percebe que seu ursinho desapareceu de seu quarto. Jerryme foi sequestrado por um ogro travesso, que o escondeu em uma floresta, cheia mistérios. O ogro, que na verdade só queria alguém para brincar, desafia Tommy a resgatar o brinquedo. Para isso, Tommy terá que entrar na floresta, encontrar as três chaves, que o ogro deixou para trás, para abrir o baú no final do mapa e consegui o seu brinqueto preferido de volta.
 
-A missão do jogador é ajudar Tommy a encontrar seu ursinho, utilizando os enigmas espalhados pela floresta para completar o mapa. 
+A missão do jogador é ajudar Tommy a encontrar seu ursinho resolvendo os enigmas espalhados pela floresta para conseguir as chaves, para no fim consguir abrir o baú e resgatar Jerryme. 
 
 ### 💡 Desenvolvimento do Projeto
 O jogo foi inspirado em projetos simples de caça ao tesouro disponíveis na plataforma Scratch. Alguns exemplos utilizados como referência incluem:
