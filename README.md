@@ -1,26 +1,30 @@
 ## Seja Bem-Vindo!
 
-# Projeto final - Desenvolvendo um jogo
+# Tommy e a Floresta dos Desafios
 
-Este repositório foi criado para guardar toda a documentação do jogo de caça ao tesouro que está sendo desenvolvido na disciplina de Computabilidade e Complexidade de Algoritmos.
+Este repositório contém toda a documentação do jogo Tommy e a Floresta dos Desafios, desenvolvido como projeto final da disciplina de Computabilidade e Complexidade de Algoritmos.
 
 👨‍💻Integrantes do trabalho:
 - Eduarda Fernandes - 29204356 - [GitHub](https://github.com/eduardasf)
 - Davi Santos - 31075550 - [GitHub](https://github.com/Davi140903)
 
-## Vamos começar!
+## Vamos Começar!
+### O que é um jogo de Caça ao Tesouro?
+O Caça ao tesouro em si é um jogo de enigmas em que os participantes devem resolver para encontrar a recompensa final. A cada mistério resolvido os participantes terão uma nova pista de onde está escondido o próximo enigma, para assim conseguir chegar ao destino final, o prêmio.
 
-### Desenvolvimento do Projeto
-Nome do jogo: Tommy e a floresta dos desafios
+### 🕹️ Sobre o Jogo
+Tommy e a Floresta dos Desafios é um mini-jogo de caça ao tesouro que conta a história de Tommy, um gato que sai em busca de seu brinquedo favorito chamado Jerryme.
 
-O desenvolvimento deste projeto foi inspirado em jogos simples de caça ao tesouro que estão disponiveís no site do Scratch. Aqui estão alguns modelos que foram utilizados como referência:
+Tudo começa quando Tommy percebe que seu ursinho desapareceu de seu quarto. Jerryme foi sequestrado por um ogro travesso, que o escondeu em uma floresta densa, cheia de árvores e mistérios. O ogro, que na verdade só queria alguém para brincar, desafia Tommy a resgatar o brinquedo. Para isso, Tommy terá que entrar na floresta, encontrar os três pedaços de um mapa que o ogro deixou para trás para assim encontrar o seu brinqueto predileto.
+
+A missão do jogador é ajudar Tommy a encontrar seu ursinho, utilizando os enigmas espalhados pela floresta para completar o mapa. 
+
+### 💡 Desenvolvimento do Projeto
+O jogo foi inspirado em projetos simples de caça ao tesouro disponíveis na plataforma Scratch. Alguns exemplos utilizados como referência incluem:
 - [Caça ao Tesouro — Autômatos de Estados Finitos](https://scratch.mit.edu/projects/570436056/) - desenvolvedor: mfopina
 - [Labirinto: Caça ao Tesouro](https://scratch.mit.edu/projects/833716412/) - desenvolvedor: GdeuPegaramMeuNome
 - [Caça ao tesouro](https://scratch.mit.edu/projects/402888020/) - desenvolvedor: anedebald
 
-O Caça ao tesouro em si é um jogo de enigmas em que os participantes devem resolver para encontrar a recompensa final. A cada mistério resolvido os participantes terão uma nova pista de onde está escondido o próximo enigma, para assim conseguir chegar ao destino final, o prêmio.
+### 🧩 Problema a Ser Resolvido:
+O problema que queremos resolver é: "Como criar um algoritmo de caça ao tesouro no Scratch que inclua dicas baseadas na proximidade entre o jogador e o tesouro"
 
-Portando o problema que queremos resolver é: "Como criar um algoritmo de caça ao tesouro no Scratch que inclua dicas baseadas na proximidade entre o jogador e o tesouro"
-
-📚Referências para a pesquisa:
-- [JOGO DIDÁTICO: CAÇA TESOURO GEOGRÁFICO](https://www.falaprofessor2023.agb.org.br/resources/anais/9/fp2023/1693513698_ARQUIVO_41e17d5f72c272576d276d118152fb95.pdf) - Altores: Jeane Araújo - Vitória Santos de Jesus - Maísa Barbosa Caldas - Bruno Rodrigues da Silveira
