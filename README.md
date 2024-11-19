@@ -9,6 +9,7 @@ Este repositório contém toda a documentação do jogo Tommy e a Floresta dos D
 - Davi Santos - 31075550 - [GitHub](https://github.com/Davi140903)
 
 🔗[Checklist para o Projeto de Algoritmo](https://docs.google.com/document/d/1Srs0VaEi86X3VZb1j1cGalZr3vO_3jp-KXp8-Y3Nx9Y/edit?usp=sharing)
+🔗[Link do Jogo](https://docs.google.com/document/d/1Srs0VaEi86X3VZb1j1cGalZr3vO_3jp-KXp8-Y3Nx9Y/edit?usp=sharing)
 
 ## Vamos Começar!
 ### O que é um jogo de Caça ao Tesouro?
