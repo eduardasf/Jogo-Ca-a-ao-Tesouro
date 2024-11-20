@@ -120,7 +120,7 @@ Neste caso, utilizamos a distância bidimensional, que é calculada da seguinte 
 Boa sorte, aventureiro! 🗝️
 
 ## 📈Desempenho do Jogo
-Para testar a usabilidade e o desempenho do jogo, realizamos um questionário com 6 perguntas para um total de 5 pessoas. Elas responderam às perguntas com sim/não. Com isso, obtivemos vários resultados e montamos uma tabela para facilitar a visualização.
+Para testar a usabilidade e o desempenho do jogo, realizamos um questionário com 6 perguntas para um total de 6 pessoas. Elas responderam às perguntas com sim/não. Com isso, obtivemos vários resultados e montamos uma tabela para facilitar a visualização.
 
 Questionário realizado:
 - O personagem se move quando você pressiona as teclas?
@@ -133,12 +133,12 @@ Questionário realizado:
 Resultado de cada pergunta:
 | Pergunta                                               | Sim | Não |
 |--------------------------------------------------------|-----|-----|
-| O personagem se move quando você pressiona as teclas?  | 5   | 0   |
-| O objetivo do jogo está claro para o jogador?          | 5   | 0   |
-| É possível iniciar o jogo ao clicar na bandeira verde? | 5   | 0   |
-| O fundo ou cenário muda em algum momento?              | 4   | 1   |
-| O placar aumenta ou diminui corretamente?              | 5   | 0   |
-| O jogo termina quando o jogador perde ou ganha?        | 5   | 0   |
+| O personagem se move quando você pressiona as teclas?  | 6   | 0   |
+| O objetivo do jogo está claro para o jogador?          | 6   | 0   |
+| É possível iniciar o jogo ao clicar na bandeira verde? | 6   | 0   |
+| O fundo ou cenário muda em algum momento?              | 5   | 1   |
+| O placar aumenta ou diminui corretamente?              | 6   | 0   |
+| O jogo termina quando o jogador perde ou ganha?        | 6   | 0   |
 
 ## ✨Conclusão
 
