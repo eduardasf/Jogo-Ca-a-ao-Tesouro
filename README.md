@@ -122,6 +122,8 @@ Boa sorte, aventureiro! 🗝️
 ## 📈Desempenho do Jogo
 Para testar a usabilidade e o desempenho do jogo, realizamos um questionário com 6 perguntas para um total de 6 pessoas. Elas responderam às perguntas com sim/não. Com isso, obtivemos vários resultados e montamos uma tabela para facilitar a visualização.
 
+🔗[Formulário utilizado na pesquisa](https://forms.gle/ow1Gxrq1ozJTWYwC7)
+
 Questionário realizado:
 - O personagem se move quando você pressiona as teclas?
 - O objetivo do jogo está claro para o jogador?
