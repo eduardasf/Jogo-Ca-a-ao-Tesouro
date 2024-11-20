@@ -53,8 +53,15 @@ Neste caso, utilizamos a distância bidimensional, que é calculada da seguinte 
 ![image](https://github.com/user-attachments/assets/80203912-d457-45c9-9290-3de38e5b4955)
 
 ### 🎯Regras (Jogabilidade)
+
+Regras:
+
+- O jogador começa o jogo com 3 vidas.
+- A cada resposta errada ou ao não conseguir encontrar o baú, o jogador perde uma vida.
+- Se todas as 3 vidas forem perdidas, o jogo termina e o jogador será redirecionado para o início.
+  
 ### 📈Desempenho do Jogo
-Para testar a usabilidade e o desempenho do jogo, realizamos um questionário com 6 perguntas para um total de n pessoas. Elas responderam às perguntas com sim/não. Com isso, obtivemos vários resultados e montamos uma tabela para facilitar a visualização.
+Para testar a usabilidade e o desempenho do jogo, realizamos um questionário com 6 perguntas para um total de 5 pessoas. Elas responderam às perguntas com sim/não. Com isso, obtivemos vários resultados e montamos uma tabela para facilitar a visualização.
 
 Questionário realizado:
 - O personagem se move quando você pressiona as teclas?
@@ -67,11 +74,11 @@ Questionário realizado:
 Resultado de cada pergunta:
 | Pergunta                                               | Sim | Não |
 |--------------------------------------------------------|-----|-----|
-| O personagem se move quando você pressiona as teclas?  | 3   | 2   |
-| O objetivo do jogo está claro para o jogador?          | 4   | 1   |
+| O personagem se move quando você pressiona as teclas?  | 5   | 0   |
+| O objetivo do jogo está claro para o jogador?          | 5   | 0   |
 | É possível iniciar o jogo ao clicar na bandeira verde? | 5   | 0   |
-| O fundo ou cenário muda em algum momento?              | 3   | 2   |
-| O placar aumenta ou diminui corretamente?              | 4   | 1   |
+| O fundo ou cenário muda em algum momento?              | 4   | 1   |
+| O placar aumenta ou diminui corretamente?              | 5   | 0   |
 | O jogo termina quando o jogador perde ou ganha?        | 5   | 0   |
 
 ### ✨Conclusão
