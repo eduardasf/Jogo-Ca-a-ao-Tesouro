@@ -21,9 +21,12 @@ Tommy e a Floresta dos Desafios é um mini-jogo de caça ao tesouro que conta a 
 
 Tudo começa quando Tommy percebe que seu ursinho desapareceu de seu quarto. Jerryme foi sequestrado por um ogro travesso, que o escondeu em uma floresta, cheia mistérios. O ogro, que na verdade só queria alguém para brincar, desafia Tommy a resgatar o brinquedo. Para isso, Tommy terá que entrar na floresta, encontrar as três chaves, que o ogro deixou para trás, para abrir o baú no final do mapa e consegui o seu brinqueto preferido de volta.
 
-A missão do jogador é ajudar Tommy a encontrar seu ursinho resolvendo os enigmas espalhados pela floresta para conseguir as chaves, para no fim consguir abrir o baú e resgatar Jerryme. 
+A missão do jogador é ajudar Tommy a encontrar seu ursinho resolvendo os enigmas espalhados pela floresta para conseguir as chaves, para no fim conseguir resgatar Jerryme. 
 
-### 💡 Desenvolvimento do Projeto
+### 💻Tecnologias Utilizadas no Desenvolvimento
+- Scratch
+
+### 💡 Inspiração Para o Projeto
 O jogo foi inspirado em projetos simples de caça ao tesouro disponíveis na plataforma Scratch. Alguns exemplos utilizados como referência incluem:
 - [Caça ao Tesouro — Autômatos de Estados Finitos](https://scratch.mit.edu/projects/570436056/) - desenvolvedor: mfopina
 - [Labirinto: Caça ao Tesouro](https://scratch.mit.edu/projects/833716412/) - desenvolvedor: GdeuPegaramMeuNome
@@ -45,7 +48,30 @@ Existem várias maneiras de calcular a distância entre pontos, dependendo da di
 Neste caso, utilizamos a distância bidimensional, que é calculada da seguinte forma:
 ![image](https://github.com/user-attachments/assets/80203912-d457-45c9-9290-3de38e5b4955)
 
+### 🎯Regras (Jogabilidade)
+### 📈Desempenho do Jogo
+Para testar a usabilidade e o desempenho do jogo, realizamos um questionário com 6 perguntas para um total de n pessoas. Elas responderam às perguntas com sim/não. Com isso, obtivemos vários resultados e montamos um gráfico para facilitar a visualização.
 
-📚Referências para a pesquisa:
+Questionário realizado:
+- O personagem se move quando você pressiona as teclas?
+- O objetivo do jogo está claro para o jogador?
+- É possível iniciar o jogo ao clicar na bandeira verde?
+- O fundo ou cenário muda em algum momento, se necessário?
+- O placar aumenta ou diminui corretamente?
+- O jogo termina quando o jogador perde ou ganha?
+
+Resultado de cada pergunta:
+- O personagem se move quando você pressiona as teclas?
+  - 3 - sim
+  - 2 - não
+- O objetivo do jogo está claro para o jogador?
+- É possível iniciar o jogo ao clicar na bandeira verde?
+- O fundo ou cenário muda em algum momento, se necessário?
+- O placar aumenta ou diminui corretamente?
+- O jogo termina quando o jogador perde ou ganha?
+
+Gráfico:
+
+### 📚Referências para a pesquisa:
 - [JOGO DIDÁTICO: CAÇA TESOURO GEOGRÁFICO](https://www.falaprofessor2023.agb.org.br/resources/anais/9/fp2023/1693513698_ARQUIVO_41e17d5f72c272576d276d118152fb95.pdf) - Altores: Jeane Araújo - Vitória Santos de Jesus - Maísa Barbosa Caldas - Bruno Rodrigues da Silveira
 - [Distância euclidiana](https://pt.wikipedia.org/wiki/Dist%C3%A2ncia_euclidiana) - Wikipedia
