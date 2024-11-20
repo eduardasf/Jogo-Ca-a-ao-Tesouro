@@ -21,11 +21,11 @@ Este repositório contém toda a documentação do jogo Tommy e a Floresta dos D
 O Caça ao tesouro em si é um jogo de enigmas em que os participantes devem resolver para encontrar a recompensa final. A cada mistério resolvido os participantes terão uma nova pista de onde está escondido o próximo enigma, para assim conseguir chegar ao destino final, o prêmio.
 
 ### 🕹️ Sobre o Jogo
-Tommy e a Floresta dos Desafios é um mini-jogo de caça ao tesouro que conta a história de Tommy, um gato que sai em busca de seu brinquedo favorito chamado Jerryme.
+Tommy e a Floresta dos Desafios é um mini-jogo de caça ao tesouro que conta a história de Tommy, um gato que parte em busca de seu amigo favorito, chamado Jerryme.
 
-Tudo começa quando Tommy percebe que seu ursinho desapareceu de seu quarto. Jerryme foi sequestrado por um ogro travesso, que o escondeu em uma floresta, cheia mistérios. O ogro, que na verdade só queria alguém para brincar, desafia Tommy a resgatar o brinquedo. Para isso, Tommy terá que entrar na floresta, encontrar as três chaves, que o ogro deixou para trás, para abrir o baú no final do mapa e consegui o seu brinqueto preferido de volta.
+Tudo começa quando Tommy percebe que seu amigo desapareceu de casa. Jerryme foi sequestrado por um ogro travesso, que o escondeu em uma floresta cheia de mistérios. O ogro, que na verdade só queria alguém para brincar, desafia Tommy a resgatar o amigo. Para isso, Tommy terá que entrar na floresta e encontrar as três chaves deixadas pelo ogro para abrir o baú no final do mapa e libertar Jerryme do calabouço.
 
-A missão do jogador é ajudar Tommy a encontrar seu ursinho resolvendo os enigmas espalhados pela floresta para conseguir as chaves, para no fim conseguir resgatar Jerryme. 
+A missão do jogador é ajudar Tommy a encontrar seu melhor amigo, resolvendo os enigmas espalhados pela floresta para obter as chaves e, no fim, conseguir libertá-lo. 
 
 ### 💻Tecnologias Utilizadas no Desenvolvimento
 - Scratch
@@ -68,11 +68,17 @@ Resultado de cada pergunta:
 | Pergunta                                               | Sim | Não |
 |--------------------------------------------------------|-----|-----|
 | O personagem se move quando você pressiona as teclas?  | 3   | 2   |
-| O objetivo do jogo está claro para o jogador?         | 4   | 1   |
+| O objetivo do jogo está claro para o jogador?          | 4   | 1   |
 | É possível iniciar o jogo ao clicar na bandeira verde? | 5   | 0   |
 | O fundo ou cenário muda em algum momento?              | 3   | 2   |
 | O placar aumenta ou diminui corretamente?              | 4   | 1   |
 | O jogo termina quando o jogador perde ou ganha?        | 5   | 0   |
+
+### ✨Conclusão
+
+Criar este mini-jogo do zero foi uma experiência incrível! Cada etapa, desde o estudo inicial até superar os desafios do desenvolvimento, foi cheia de aprendizados e superações. Foi muito legal ver o resultado final tomando forma e poder compartilhá-lo com várias pessoas para testar e receber suas impressões.
+
+Quando analisamos os resultados dos questionários, ficou claro que o jogo conseguiu cumprir o que foi planejado desde o início. Saber que ele proporcionou a experiência esperada e ver as reações positivas das pessoas foi muito gratificante. Além disso, o feedback recebido trouxe novas ideias e motivação para seguir melhorando. Foi uma jornada desafiadora, mas muito recompensadora!
 
 ### 📚Referências para a pesquisa:
 - [JOGO DIDÁTICO: CAÇA TESOURO GEOGRÁFICO](https://www.falaprofessor2023.agb.org.br/resources/anais/9/fp2023/1693513698_ARQUIVO_41e17d5f72c272576d276d118152fb95.pdf) - Altores: Jeane Araújo - Vitória Santos de Jesus - Maísa Barbosa Caldas - Bruno Rodrigues da Silveira
