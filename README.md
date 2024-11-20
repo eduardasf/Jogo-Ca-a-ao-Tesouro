@@ -4,13 +4,17 @@
 
 Este repositório contém toda a documentação do jogo Tommy e a Floresta dos Desafios, desenvolvido como projeto final da disciplina de Computabilidade e Complexidade de Algoritmos.
 
-👨‍💻Integrantes do trabalho:
+### 👨‍💻Integrantes do trabalho:
 - Eduarda Fernandes - 29204356 - [GitHub](https://github.com/eduardasf)
 - Davi Santos - 31075550 - [GitHub](https://github.com/Davi140903)
 
+### Links do Trabalho
+
 🔗[Checklist para o Projeto de Algoritmo](https://docs.google.com/document/d/1Srs0VaEi86X3VZb1j1cGalZr3vO_3jp-KXp8-Y3Nx9Y/edit?usp=sharing)
 
-🔗[Link do Jogo](https://docs.google.com/document/d/1Srs0VaEi86X3VZb1j1cGalZr3vO_3jp-KXp8-Y3Nx9Y/edit?usp=sharing)
+🔗[Link do Jogo - Scratch](https://docs.google.com/document/d/1Srs0VaEi86X3VZb1j1cGalZr3vO_3jp-KXp8-Y3Nx9Y/edit?usp=sharing)
+
+🔗[Video do jogo - Youtube](https://docs.google.com/document/d/1Srs0VaEi86X3VZb1j1cGalZr3vO_3jp-KXp8-Y3Nx9Y/edit?usp=sharing)
 
 ## Vamos Começar!
 ### O que é um jogo de Caça ao Tesouro?
@@ -50,7 +54,7 @@ Neste caso, utilizamos a distância bidimensional, que é calculada da seguinte 
 
 ### 🎯Regras (Jogabilidade)
 ### 📈Desempenho do Jogo
-Para testar a usabilidade e o desempenho do jogo, realizamos um questionário com 6 perguntas para um total de n pessoas. Elas responderam às perguntas com sim/não. Com isso, obtivemos vários resultados e montamos um gráfico para facilitar a visualização.
+Para testar a usabilidade e o desempenho do jogo, realizamos um questionário com 6 perguntas para um total de n pessoas. Elas responderam às perguntas com sim/não. Com isso, obtivemos vários resultados e montamos uma tabela para facilitar a visualização.
 
 Questionário realizado:
 - O personagem se move quando você pressiona as teclas?
@@ -61,16 +65,14 @@ Questionário realizado:
 - O jogo termina quando o jogador perde ou ganha?
 
 Resultado de cada pergunta:
-- O personagem se move quando você pressiona as teclas?
-  - 3 - sim
-  - 2 - não
-- O objetivo do jogo está claro para o jogador?
-- É possível iniciar o jogo ao clicar na bandeira verde?
-- O fundo ou cenário muda em algum momento, se necessário?
-- O placar aumenta ou diminui corretamente?
-- O jogo termina quando o jogador perde ou ganha?
-
-Gráfico:
+| Pergunta                                               | Sim | Não |
+|--------------------------------------------------------|-----|-----|
+| O personagem se move quando você pressiona as teclas?  | 3   | 2   |
+| O objetivo do jogo está claro para o jogador?         | 4   | 1   |
+| É possível iniciar o jogo ao clicar na bandeira verde? | 5   | 0   |
+| O fundo ou cenário muda em algum momento?              | 3   | 2   |
+| O placar aumenta ou diminui corretamente?              | 4   | 1   |
+| O jogo termina quando o jogador perde ou ganha?        | 5   | 0   |
 
 ### 📚Referências para a pesquisa:
 - [JOGO DIDÁTICO: CAÇA TESOURO GEOGRÁFICO](https://www.falaprofessor2023.agb.org.br/resources/anais/9/fp2023/1693513698_ARQUIVO_41e17d5f72c272576d276d118152fb95.pdf) - Altores: Jeane Araújo - Vitória Santos de Jesus - Maísa Barbosa Caldas - Bruno Rodrigues da Silveira
