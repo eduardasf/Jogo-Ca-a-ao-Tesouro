@@ -10,7 +10,7 @@ Este repositório contém toda a documentação do jogo Tommy e a Floresta dos D
 
 ## Links do Trabalho
 
-🔗[Link para download do artigo do trabalho]([https://docs.google.com/document/d/1Srs0VaEi86X3VZb1j1cGalZr3vO_3jp-KXp8-Y3Nx9Y/edit?usp=sharing](https://drive.google.com/file/d/1IJvQd-AxLbL-g-q2R2CV4qUETyGs6vHz/view?usp=drive_link))
+🔗[Link para download do artigo do trabalho](https://drive.google.com/file/d/1IJvQd-AxLbL-g-q2R2CV4qUETyGs6vHz/view?usp=sharing)
 
 🔗[Checklist para o Projeto de Algoritmo](https://docs.google.com/document/d/1Srs0VaEi86X3VZb1j1cGalZr3vO_3jp-KXp8-Y3Nx9Y/edit?usp=sharing)
 
