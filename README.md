@@ -1,4 +1,4 @@
-## Seja Bem-Vindo!
+[artigo_Jogo.pdf](https://github.com/user-attachments/files/17851620/artigo_Jogo.pdf)## Seja Bem-Vindo!
 
 # Tommy e a Floresta dos Desafios
 
@@ -9,6 +9,8 @@ Este repositório contém toda a documentação do jogo Tommy e a Floresta dos D
 - Davi Santos - 31075550 - [GitHub](https://github.com/Davi140903)
 
 ## Links do Trabalho
+
+🔗[Link para download do artigo do trabalho]([https://docs.google.com/document/d/1Srs0VaEi86X3VZb1j1cGalZr3vO_3jp-KXp8-Y3Nx9Y/edit?usp=sharing](https://drive.google.com/file/d/1IJvQd-AxLbL-g-q2R2CV4qUETyGs6vHz/view?usp=drive_link))
 
 🔗[Checklist para o Projeto de Algoritmo](https://docs.google.com/document/d/1Srs0VaEi86X3VZb1j1cGalZr3vO_3jp-KXp8-Y3Nx9Y/edit?usp=sharing)
 
