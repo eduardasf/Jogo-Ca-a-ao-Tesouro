@@ -10,13 +10,13 @@ Este repositório contém toda a documentação do jogo Tommy e a Floresta dos D
 
 ## Links do Trabalho
 
-🔗[Link para download do artigo do trabalho](https://drive.google.com/file/d/1IJvQd-AxLbL-g-q2R2CV4qUETyGs6vHz/view?usp=sharing)
-
 🔗[Checklist para o Projeto de Algoritmo](https://docs.google.com/document/d/1Srs0VaEi86X3VZb1j1cGalZr3vO_3jp-KXp8-Y3Nx9Y/edit?usp=sharing)
 
 🔗[Link do Jogo - Scratch](https://scratch.mit.edu/projects/1099604391)
 
 🔗[Video do jogo - Youtube](https://youtu.be/QSmho8mQw30)
+
+🔗[Trabalho formato PDF](https://drive.google.com/file/d/1IJvQd-AxLbL-g-q2R2CV4qUETyGs6vHz/view?usp=sharing)
 
 ## Vamos Começar!
 ## O que é um jogo de Caça ao Tesouro?
