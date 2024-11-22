@@ -1,4 +1,4 @@
-[artigo_Jogo.pdf](https://github.com/user-attachments/files/17851620/artigo_Jogo.pdf)## Seja Bem-Vindo!
+## Seja Bem-Vindo!
 
 # Tommy e a Floresta dos Desafios
 
